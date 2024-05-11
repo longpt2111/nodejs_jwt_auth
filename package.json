@@ -1,13 +1,13 @@
 {
-  "name": "15tut",
+  "name": "nodejs_jwt_auth",
   "version": "1.0.0",
-  "description": "MongoDB tutorial",
+  "description": "NodeJS MongoDB first project",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Long",
   "license": "ISC",
   "engines": {
     "node": "14.x"
